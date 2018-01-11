@@ -1,0 +1,119 @@
+Found device 0 with properties:
+name: GeForce GTX 980 Ti
+major: 5 minor: 2 memoryClockRate (GHz) 1.3545
+pciBusID 0000:01:00.0
+Total memory: 5.93GiB
+Free memory: 5.38GiB
+
+
+50d word embedding
+
+
+3 categories
+'sci.crypt',
+ 'sci.electronics',
+ 'sci.med'
+Total number of traing examples: 1780
+Total training time: 133.06911397
+Average accuracy on training set: 0.977723
+Total number of test examples: 1185
+Average accuracy on testing set: 0.824985
+
+5 cates=[ 'sci.crypt',
+ 'sci.electronics',
+ 'sci.med',
+'comp.windows.x',
+ 'misc.forsale']
+Total number of traing examples: 2958
+Total training time: 210.95450902
+Average accuracy on training set: 0.976753
+Total number of test examples: 1970
+Average accuracy on testing set: 0.787621
+
+10
+'alt.atheism',
+ 'comp.graphics',
+ 'comp.os.ms-windows.misc',
+ 'comp.sys.ibm.pc.hardware',
+ 'comp.sys.mac.hardware',
+ 'comp.windows.x',
+ 'misc.forsale',
+ 'rec.autos',
+ 'rec.motorcycles',
+ 'rec.sport.baseball'
+Total number of traing examples: 5790
+Total training time: 403.777827024
+Average accuracy on training set: 0.953293
+Total number of test examples: 3855
+Average accuracy on testing set: 0.583794
+
+15
+'comp.windows.x',
+ 'misc.forsale',
+ 'rec.autos',
+ 'rec.motorcycles',
+ 'rec.sport.baseball',
+ 'rec.sport.hockey',
+ 'sci.crypt',
+ 'sci.electronics',
+ 'sci.med',
+ 'sci.space',
+ 'soc.religion.christian',
+ 'talk.politics.guns',
+ 'talk.politics.mideast',
+ 'talk.politics.misc',
+ 'talk.religion.misc'
+Total number of traing examples: 8491
+Total training time: 596.581908941
+Average accuracy on training set: 0.950984
+Total number of testing examples: 5653
+Average accuracy on testing set: 0.604886
+
+
+all category
+Total number of traing examples: 11314
+Total training time: 791.641639948
+Average accuracy on training set: 0.931752
+Total number of test examples: 7532
+Average accuracy on testing set: 0.505586
+
+100d word embedding
+
+3
+Total number of traing examples: 1780
+Total training time: 221.538727999
+Average accuracy on training set: 0.978278
+Total number of testing examples: 1185
+Average accuracy on testing set: 0.814344
+
+
+5
+Total number of traing examples: 2958
+Total training time: 317.585061073
+Average accuracy on training set: 0.979727
+Total number of testing examples: 1970
+Average accuracy on testing set: 0.793891
+
+
+
+10
+Total number of traing examples: 5790
+Total training time: 594.634063005
+Average accuracy on training set: 0.96556
+Total number of test examples: 3855
+Average accuracy on testing set: 0.613764
+
+
+15
+Total number of traing examples: 8491
+Total training time: 862.83954.985
+Average accuracy on training set: 0.951801
+Total number of test examples: 5653
+Average accuracy on testing set: 0.606842
+
+all
+Total number of traing examples: 11314
+Total training time: 1138.74368
+Average accuracy on training set: 0.956381
+Total number of testing examples: 7532
+Average accuracy on testing set: 0.533345

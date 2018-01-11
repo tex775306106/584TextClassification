@@ -1,0 +1,19 @@
+3
+Naive Bayes correct prediction: 0.88
+SVM correct prediction: 0.92
+
+5
+Naive Bayes correct prediction: 0.87
+SVM correct prediction: 0.92
+
+10
+Naive Bayes correct prediction: 0.85
+SVM correct prediction: 0.86
+
+15
+Naive Bayes correct prediction: 0.83
+SVM correct prediction: 0.88
+
+all
+Naive Bayes correct prediction: 0.76
+SVM correct prediction: 0.82
